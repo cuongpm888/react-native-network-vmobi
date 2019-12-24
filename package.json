@@ -1,0 +1,20 @@
+
+{
+  "name": "react-native-network-vmobi",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "dependencies": {
+    "aes-js": "^3.1.1",
+    "axios": "^0.18.0",
+    "crypto-js": "^3.1.9-1"
+  },
+  "author": "cuongpm",
+  "license": "MIT"
+}

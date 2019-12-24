@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0a77eeec72c910f66ee4c70fd7db9d1c/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0a77eeec72c910f66ee4c70fd7db9d1c/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0941d939778ec21e938cf0aaa28a833f/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0a77eeec72c910f66ee4c70fd7db9d1c/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

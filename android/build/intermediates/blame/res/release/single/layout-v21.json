@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0941d939778ec21e938cf0aaa28a833f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0941d939778ec21e938cf0aaa28a833f/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0941d939778ec21e938cf0aaa28a833f/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-network-vmobi/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0941d939778ec21e938cf0aaa28a833f/res/layout-v21/notification_action.xml"
+    }
+]
